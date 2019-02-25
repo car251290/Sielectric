@@ -18,3 +18,8 @@ Java project made it using Android Studio for know how much money consuption is 
 * Multiple days
 * Two usage mode : normal & standby
 * Currencies selectable
+
+
+If you want to know more about this app please visit the Blog of Sielectric
+
+https://language.water.blog/2019/01/08/android-studio/
