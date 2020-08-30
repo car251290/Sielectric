@@ -20,6 +20,6 @@ This Project was made using the language of Java and using the program from Andr
 * Currencies selectable.
 
 
-If you want to know more about this app please visit the Blog of Sielectric
+## If you want to know more about this app please visit the Blog of Sielectric
 
 https://language.water.blog/2019/01/08/android-studio/
