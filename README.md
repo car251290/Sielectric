@@ -1,5 +1,5 @@
 # Sielectric
-This Project was made using the language of Java and using the program from Android Studio, made a simple calculation of the expenses the people use in the electricity every day people has over use the power, using this app will not be useful to reduce the energy of a house also the cost. because the planet need to reduce the energy we are using.
+This project was made coding in Java and using the program from Android Studio, made a simple calculation of the expenses the people use in the electricity every day people have overused the power of the planet, So we have to make some changes using the final use of this  App is to give how much money are you using each day and the consumption it will be useful to reduce energy house as well as the cost because the planet needs to reduce the energy.
 
 
 # Licene 
